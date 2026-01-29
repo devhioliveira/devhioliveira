@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/devhioliveira/devhioliveira/refs/heads/main/github-banner.png?token=GHSAT0AAAAAADTJZ6FVD24UNX3JBLH7MEMI2LJJMDA" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
